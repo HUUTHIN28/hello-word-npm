@@ -1,0 +1,19 @@
+{
+  "name": "hello-word",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HUUTHIN28/hello-word-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HUUTHIN28/hello-word-npm/issues"
+  },
+  "homepage": "https://github.com/HUUTHIN28/hello-word-npm#readme"
+}
